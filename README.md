@@ -68,10 +68,11 @@ PiperTest/
 
 ## Usage
 
-With the virtual environment activated and model files in place, you can run:
+
+With the virtual environment activated and model files in place, you can run the Streamlit app:
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 
 ## Deactivating Virtual Environment
